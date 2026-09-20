@@ -1,6 +1,6 @@
 # Campaign Command: Mexican–American War
 
-This folder is ready for GitHub Pages. It contains one self-grading 100-point activity and all historical images needed to run it.
+This folder is ready for GitHub Pages. It contains one self-grading 100-point activity, all historical images, and five built-in Mission Intelligence Files. Students do not need the presentation or outside research to answer the scored questions.
 
 ## Publish with GitHub Pages
 
